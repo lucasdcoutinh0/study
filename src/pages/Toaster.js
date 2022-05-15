@@ -11,7 +11,7 @@ const Toaster = () => {
         }, 3000)
     }
     return (
-        <div>
+        <div className="main">
             <h1 className="title">Toaster</h1>
             <div className="t-container">
                 <button className="btn" onClick={createNotification}>Click Me!</button>
