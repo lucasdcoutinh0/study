@@ -1,4 +1,4 @@
-# Basic Of JS Class
+# Basic Of JS
 
 -> In this repo you gonna find the most simple js projects
 <br/>
